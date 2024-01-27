@@ -30,5 +30,6 @@
   <li>Selenium</li>
   <li>FastAPI</li>
   <li>BeautifulSoup</li>
+  <li>DB</li>
 </ul>
 
