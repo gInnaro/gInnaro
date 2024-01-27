@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif?cid=ecf05e47adlnfhkofbt813g0b5k4pdfj06pp0m3wo07n05jn&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="300"/>
+  <img src="https://media2.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif?cid=ecf05e47adlnfhkofbt813g0b5k4pdfj06pp0m3wo07n05jn&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
 <a href="mailto:ilnaz.gan@gmail.com">
@@ -18,4 +18,17 @@
 </div>
 
 ### :woman_technologist: Обо мне :
+
+Владею Python более двух лет, и на данный период времени в активном поиске работы.
+
+### :hammer_and_wrench: Библиотеки :
+<ul>
+  <li>Aiogram</li>
+  <li>Request</li>
+  <li>Django</li>
+  <li>Tkinter</li>
+  <li>Selenium</li>
+  <li>FastAPI</li>
+  <li>BeautifulSoup</li>
+</ul>
 
